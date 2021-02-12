@@ -17,6 +17,8 @@ Something important, Carnage is a hat script and you need cyberpunk sniper to us
 # Exploits it works with
 
 KRNL
+
 Synapse
-EasyExploits (some scripts)
+
+Wearedevs, EasyExploits and any other dlls most likely will not work.
 
