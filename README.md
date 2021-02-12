@@ -4,7 +4,11 @@ A fast, clean reanimation hub made by ExplanationFalse (me) and Xiba.
 
 # How it works
 
-1. Execute this script in your Roblox executor: loadstring(game:HttpGet("https://raw.githubusercontent.com/hTponer343/TomexReanimate/main/Obfuscated%20(3).lua"))()
+1. Execute this script in your Roblox executor:
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hTponer343/TomexReanimate/main/Obfuscated%20(3).lua"))()
+```
 
 2. Go to the scripts tab and click any script
 
